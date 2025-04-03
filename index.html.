@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washim Raja - CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Washim Raja</h1>
+        <p>Assistant Professor, Department of Chemistry</p>
+    </header>
+    <section>
+        <h2>Personal Details</h2>
+        <p><strong>Email:</strong> washim.raja89@gmail.com</p>
+        <p><strong>Phone:</strong> +91-9734284191</p>
+        <p><strong>Address:</strong> Saddipara, Suri, Birbhum, West Bengal</p>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>M.Sc. Chemistry - The University of Burdwan (2012)</li>
+            <li>B.Sc. Chemistry - Suri Vidyasagar College (2010)</li>
+            <li>Class 12th - W.B.C.H.S.E. (2006)</li>
+            <li>Class 10th - W.B.B.S.E. (2004)</li>
+        </ul>
+    </section>
+</body>
+</html>
